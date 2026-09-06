@@ -1,4 +1,4 @@
-# 📁 File Organizer
+#  File Organizer
 
 Automatically sorts files in a selected folder into organized subfolders:
 
